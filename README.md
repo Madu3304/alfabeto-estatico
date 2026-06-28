@@ -73,6 +73,11 @@ label_map = np.load("dataset/features/label_map.npy", allow_pickle=True).item()
 
 ### 4 — Aplicação em Tempo Real
 
+Execute o arquivo:
+
+```bash
+python app.py
+
 
 ### 5 — Avaliação e Documentação
 
